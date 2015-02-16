@@ -21,6 +21,11 @@ h1 {
 	font-family: pHeader;
 }
 
+h2{
+	font-family: pHeader;
+	font-size: 2vw !important;
+	color: #BDC3C7;
+}
 p {
 	font-family: pBody;
 	font-size: 1.5vw;
