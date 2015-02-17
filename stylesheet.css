@@ -47,7 +47,11 @@ p {
 	color: #b60202;
 	font-family: gothic;
 }
+.circle{
+	border:solid white 15px;
+	border-radius: 50%;
 
+}
 .p10{
 	padding-top: 100px;
 }
@@ -79,6 +83,7 @@ p {
 	color: #ffffff !important;
 	font-family: gothic !important;
 	font-size: 4vw !important;
+	padding-bottom: 25px !important;
 }
 
 #coverheader {
