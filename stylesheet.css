@@ -18,7 +18,7 @@
 /*******************General*********************/
 
 h1 {
-	font-family: pHeader;
+	font-family: gothic;
 }
 
 h2{
@@ -41,16 +41,22 @@ p {
 
 .kheader{
 	background-image: url("images/background-splash.png");
+	background-color:#1b242d;
 	background-size: fill;
-	min-height: 600px;
-	color: #ffffff;
+	min-height: 630px;
+	color: #b60202;
 	font-family: gothic;
 }
 
 .p10{
-	padding-top: 20px;
+	padding-top: 100px;
 }
-
+.p15{
+	padding-top: 15px;
+}
+.p100{
+	padding-top: 70px;
+}
 .header{
 	font-family: pHeader;
 	font-size: 5vw;
@@ -70,10 +76,11 @@ p {
 }
 
 #covertext {
+	color: #ffffff !important;
 	font-family: gothic !important;
 	font-size: 4vw !important;
 }
 
 #coverheader {
-	font-size: 16vw !important;
+	font-size: 13vw !important;
 }
