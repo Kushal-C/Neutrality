@@ -9,7 +9,7 @@
 }
 @font-face{
 	font-family: pBody;
-	src:url("fonts/myriadpro.otf");
+	src:url("fonts/myriadpro.OTF");
 }
 @font-face{
 	font-family: pBody2;
@@ -71,6 +71,7 @@ ul {
 .bodyP{
 	font-family: pBody;
 	font-size: 1.5vw;
+	word-wrap:break-word;
 }
 /********************ID's************************/
 
