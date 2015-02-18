@@ -31,13 +31,16 @@ p {
 	font-size: 1.5vw;
 	word-wrap:break-word;
 }
-
+ul {
+	list-style: none;
+}
 /*******************Classes**********************/
 .container
 {
 	width: 100%;
 	height: 100%;
 }
+
 
 .kheader{
 	background-image: url("images/background-splash.png");
@@ -66,7 +69,8 @@ p {
 	font-size: 5vw;
 }
 .bodyP{
-
+	font-family: pBody;
+	font-size: 1.5vw;
 }
 /********************ID's************************/
 
